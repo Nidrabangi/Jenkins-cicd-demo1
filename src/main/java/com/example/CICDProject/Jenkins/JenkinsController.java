@@ -11,7 +11,7 @@ public class JenkinsController {
 	
 	@GetMapping("/hello")
 	public String getMethodName() {
-		return "Welcome Again";
+		return "Welcome Again CI CD";
 	}
 	
 
